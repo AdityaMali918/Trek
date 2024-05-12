@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+/* Ensure @import is placed before Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
